@@ -43,3 +43,4 @@ You can preview the production build with `npm run preview`.
 ## Dependencies
 - npx svelte-add@latest tailwindcss --forms --typography
 - npm install -D tailwindcss postcss autoprefixer vite
+- erakiui / Componentes
