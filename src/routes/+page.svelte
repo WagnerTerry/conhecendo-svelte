@@ -1,12 +1,10 @@
 <script>
-    import Button from "./Button.svelte";
+    import Teste from "$lib/Teste.svelte";
 </script>
 
 <h1>Meu Site</h1>
 
-<Button label="Clique aqui" />
-<Button />
-
+<Teste />
 <!-- <ul>
     <li><a href="/">Inicio</a></li>
     <li><a href="/sobre">Sobre</a></li>
